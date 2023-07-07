@@ -12,10 +12,9 @@ import javax.persistence.Table;
 @Entity
 @Table
 public class UsuarioAdmin extends Usuario { // Esta clase es para los que administran la base
-
     
+    @Id
     protected long dni;
-    
    
     protected String sector;
     

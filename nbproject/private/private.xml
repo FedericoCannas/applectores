@@ -5,19 +5,22 @@
         <group>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/persistencia/LibroDAO.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/LibreriaDigital.java</file>
-            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Login.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/persistencia/EditorialDAO.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Usuario.java</file>
-            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Tienda.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Libro.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/META-INF/persistence.xml</file>
-            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/persistencia/AutorDAO.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Main/LibreriaMain.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/Tienda.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/persistencia/AutorDAO.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Autor.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/UsuarioAdmin.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/Editorial.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/persistencia/DAO.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/EditorialServicio.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/AutorServicio.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Objetos/UsuarioCliente.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/Aplicacion.java</file>
+            <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/Login.java</file>
             <file>file:/C:/Users/fede2/Documents/NetBeansProjects/Egg/JavaApplication28/src/Servicio/LibroServicio.java</file>
         </group>
     </open-files>

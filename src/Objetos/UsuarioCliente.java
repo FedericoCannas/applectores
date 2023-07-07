@@ -4,8 +4,11 @@
 package Objetos;
 
 import java.util.ArrayList;
+import javax.persistence.Entity;
+import javax.persistence.Table;
 
-
+@Entity
+@Table
 public class UsuarioCliente extends Usuario{
 
     public UsuarioCliente() {
